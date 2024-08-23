@@ -24,3 +24,26 @@ Primeiro, clone este repositório para o seu ambiente local usando Git:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+```
+### Passo 2: Navegar até o Diretório do Programa
+Cada programa está localizado em seu próprio diretório. 
+Navegue até o diretório do programa que você deseja executar. Por exemplo, para executar o "Gerenciador de Impressão":
+
+```bash
+cd GerenciadorDeImpressao
+```
+
+### Passo 3: Compilar o Programa
+Compile o programa Java usando o comando javac. Por exemplo, para o programa "Gerenciador de Impressão":
+
+```bash
+javac Main.java
+```
+Este comando irá compilar todos os arquivos .java no diretório atual e gerar arquivos .class .
+
+### Passo 4: Executar o Programa
+Depois de compilar o programa, execute-o usando o comando java. Por exemplo:
+
+```bash
+java Main
+```
