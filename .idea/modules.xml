@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lista_sete.iml" filepath="$PROJECT_DIR$/lista_sete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao_cinco/questao_cinco.iml" filepath="$PROJECT_DIR$/questao_cinco/questao_cinco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao_dois/questao_dois.iml" filepath="$PROJECT_DIR$/questao_dois/questao_dois.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao_oito/questao_oito.iml" filepath="$PROJECT_DIR$/questao_oito/questao_oito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao_quatro/questao_quatro.iml" filepath="$PROJECT_DIR$/questao_quatro/questao_quatro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao_seis/questao_seis.iml" filepath="$PROJECT_DIR$/questao_seis/questao_seis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao_sete/questao_sete.iml" filepath="$PROJECT_DIR$/questao_sete/questao_sete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao_tres/questao_tres.iml" filepath="$PROJECT_DIR$/questao_tres/questao_tres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questao_um/questao_um.iml" filepath="$PROJECT_DIR$/questao_um/questao_um.iml" />
+    </modules>
+  </component>
+</project>
